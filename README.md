@@ -63,7 +63,7 @@ The RFM scoring process classified 4,349 customers into four loyalty tiers.
 | Bronze | 790 | 18.2% |
 | **Total** | **4,349** | **100%** |
 
-![Customer Loyalty Distribution](loyalty badge.png)
+![Customer Loyalty Distribution](loyalty.png)
 
 Gold and Platinum customers together account for **2,593 customers (59.6%)**, representing the majority of the customer base in the top two loyalty tiers.
 
