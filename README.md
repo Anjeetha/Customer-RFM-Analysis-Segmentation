@@ -10,6 +10,18 @@ Understanding customer buying patterns is critical for optimizing marketing effo
 * **Frequency:** Total count of transactions per unique customer.
 * **Monetary:** Total gross transaction value accumulated by the customer.
 
+ ## 🎯 Business Problem
+
+Treating every customer with the same marketing strategy can lead to inefficient use of promotional resources.
+
+The objective of this project was to identify:
+
+- Which customers show the strongest purchasing behaviour?
+- Which customers are more recently engaged?
+- Which customers contribute higher purchase value?
+- How can customers be grouped into meaningful loyalty tiers?
+- What type of marketing strategy should be used for each group?
+
 ## 🛠️ Tech Stack & Libraries
 
 * **Language:** Python 3.x
