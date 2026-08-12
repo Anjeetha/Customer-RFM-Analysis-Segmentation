@@ -50,6 +50,22 @@ The objective of this project was to identify:
      * 🥈 **Gold:** High-value repeat customers.
      * 🥉 **Silver:** Moderate engagement buyers.
      * 🏷️ **Bronze:** Low frequency/at-risk customers.
+       
+## 📊 Customer Segmentation Results
+
+The RFM scoring process classified 4,349 customers into four loyalty tiers.
+
+| Loyalty Tier | Customers | Share |
+|---|---:|---:|
+| Gold | 1,313 | 30.2% |
+| Platinum | 1,280 | 29.4% |
+| Silver | 966 | 22.2% |
+| Bronze | 790 | 18.2% |
+| **Total** | **4,349** | **100%** |
+
+![Customer Loyalty Distribution](loyaltybadge.png)
+
+Gold and Platinum customers together account for **2,593 customers (59.6%)**, representing the majority of the customer base in the top two loyalty tiers.
 
 ## 📊 Segment Distribution
 
