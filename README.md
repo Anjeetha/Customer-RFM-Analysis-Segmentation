@@ -46,10 +46,10 @@ The objective of this project was to identify:
    * Computed a composite `LoyalityScore` per customer.
 4. **Loyalty Badge Segmentation:**
    * Used `pd.qcut()` to bin composite scores into 4 distinct segments:
-     * 🥇 **Platinum:** Most frequent, recent, and high-value shoppers.
-     * 🥈 **Gold:** High-value repeat customers.
-     * 🥉 **Silver:** Moderate engagement buyers.
-     * 🏷️ **Bronze:** Low frequency/at-risk customers.
+     * **Platinum:** Most frequent, recent, and high-value shoppers.
+     * **Gold:** High-value repeat customers.
+     * **Silver:** Moderate engagement buyers.
+     * **Bronze:** Low frequency/at-risk customers.
        
 ## 📊 Customer Segmentation Results
 
